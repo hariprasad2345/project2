@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    display: flex;
+    list-style-type: none;
+    width: 1500px;
+    height: 100px;
+    background-color: aliceblue;
+    padding-top: 20px;
+    position: fixed;
+    
+}
+.logo{
+    display: flex;
+    padding-top: 10px;
+ 
+}
+.b1 h1{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.navbar{
+   padding-left: 500px;
+  
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.b2{
+    font-size: 50px;
+    padding-top: 100px;
+}
+.box{
+    display: flex;
+}
+.b4 h2{
+    font-size:50px;
+}
+.b4 {
+    padding-left:200px;
+    padding-top: 150px;
+    
+}
+.box1{
+    display: flex;
+    padding-left: 200px;
+}
+.b6{
+    padding-left: 200px;
+    padding-top:70px;
+}
+.b5{
+padding-top: 200px;
+}
+.b5 h2{
+    font-size:30px ;
+    padding-right: 20px;
+    
+}
+.box2{
+    display: flex;
+    
+    padding-top: 50px;
+}
+.b8 h2{
+    font-size: 30px;
+    padding-top: 100%
+}
+.b8 {
+    padding-left: 100px;
+}
+.box3{
+    display: flex;
+    padding-top: 100px;
+}
+.b9 {
+    padding-left: 200px;
+    padding-top: 300px
+}
+.b9 h2{
+    font-size: 30px;
+}
+.b10{
+    padding-left: 300px;
+}
+.box4{
+    display: flex;
+    padding-top: 50px;
+
+}
+.b12 {
+
+    padding-left: 200px;
+    padding-top: 200px;
+
+}
+.b12 h2{
+    font-size: 30px;
+}
+.box5{
+    display: flex;
+    column-gap: 300px;
+    padding-top: 50px;
+}
+.b13 p{
+    font-size: 20px;
+
+}
+.b13 h1{
+    font-size: 30px;
+
+}
+.b14 h1{
+    font-size: 30px;
+
+}
+.b14 p{
+    font-size: 20px;
+}
+.b15 input{
+    border-bottom: 1px black solid;
+    padding-top: 50PX;
+    padding-top: 30px;
+    text-size-adjust: 10px;
+}
+input{
+    outline: 0;
+    border-width: 0 0 2px;
+   
+}
+ button:hover{
+    background-color: white;
+     color: black;
+}
+.b15 button {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+
+}
+.BOX6 {
+ padding-left: 700px;
+ display: flex;
+ padding-top: 100PX;
+
+ }  
+.BOX6 button{
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px; 
+}
+button:hover{
+    background-color: white;
+     color: black
+}
